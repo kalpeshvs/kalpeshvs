@@ -1,6 +1,5 @@
-- Hi, I’m @kalpeshvs.✔
-- I'm interested in Android Devlopment.💫
-- I'm a Student
+- Hi, I’m @kalpeshvs.
+- I'm interested in Android Devlopment.
 
 
 <!---
